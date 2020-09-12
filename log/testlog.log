@@ -1,0 +1,1444 @@
+2020-09-10 01:13:37,495 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 01:13:37,690 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 01:13:50,898 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 01:13:50,975 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 01:19:30,910 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 01:19:31,063 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 01:19:43,818 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 01:19:43,919 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 13:14:33,334 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 13:14:33,581 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 13:14:48,727 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 13:14:48,855 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 14:24:58,690 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 14:24:58,875 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 14:24:58,876 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-10 14:24:58,945 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-10 14:24:59,061 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-10 14:24:59,204 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-10 14:25:03,776 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-10 14:25:03,780 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 14:25:03,896 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 14:25:04,000 - StepDefinitionsClass.HomePageStepDefinition -INFO - Image VTiger is seen on Home page 
+2020-09-10 14:25:04,152 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-10 14:25:12,065 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 14:25:12,155 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 14:25:12,156 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-10 14:25:12,207 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-10 14:25:12,294 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-10 14:25:12,435 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-10 14:25:16,295 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-10 14:25:16,297 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 14:25:16,394 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 14:25:16,532 - StepDefinitionsClass.HomePageStepDefinition -INFO - Image VTiger is seen on Home page 
+2020-09-10 14:25:16,675 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-10 14:27:22,982 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 14:27:23,121 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 14:27:23,123 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-10 14:27:23,241 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-10 14:27:23,350 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-10 14:27:23,498 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-10 14:27:27,571 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-10 14:27:27,576 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 14:27:27,666 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 14:27:27,764 - StepDefinitionsClass.HomePageStepDefinition -INFO - Image VTiger is seen on Home page 
+2020-09-10 14:27:27,887 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-10 14:27:36,044 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 14:27:36,117 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 14:27:36,117 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-10 14:27:36,157 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-10 14:27:36,234 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-10 14:27:36,374 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-10 14:27:40,512 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-10 14:27:40,514 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 14:27:40,760 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 14:27:41,017 - StepDefinitionsClass.HomePageStepDefinition -INFO - Image VTiger is seen on Home page 
+2020-09-10 14:27:41,240 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-10 14:29:00,281 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 14:29:00,508 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 14:29:00,508 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-10 14:29:00,558 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-10 14:29:00,655 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-10 14:29:00,753 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-10 14:29:05,498 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-10 14:29:05,502 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 14:29:05,625 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 14:29:05,737 - StepDefinitionsClass.HomePageStepDefinition -INFO - Image VTiger is seen on Home page 
+2020-09-10 14:29:05,877 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-10 14:29:13,301 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 14:29:13,364 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 14:29:13,365 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-10 14:29:13,416 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-10 14:29:13,511 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-10 14:29:13,656 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-10 14:29:18,069 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-10 14:29:18,071 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 14:29:18,195 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 14:29:18,348 - StepDefinitionsClass.HomePageStepDefinition -INFO - Image VTiger is seen on Home page 
+2020-09-10 14:29:18,455 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-10 21:05:23,362 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 21:05:23,567 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 21:05:23,567 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-10 21:05:23,718 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-10 21:05:23,853 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-10 21:05:29,412 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-10 21:05:37,866 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 21:05:37,983 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 21:05:37,984 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-10 21:05:38,117 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-10 21:05:38,238 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-10 21:05:42,072 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-10 21:05:50,157 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 21:05:50,252 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 21:05:50,255 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-10 21:05:50,354 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-10 21:05:50,496 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-10 21:05:54,415 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-10 21:57:11,639 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 21:57:11,832 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 21:57:11,832 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-10 21:57:11,942 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-10 21:57:12,078 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-10 21:57:15,552 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-10 21:57:23,858 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 21:57:24,075 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 21:57:24,075 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-10 21:57:24,188 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-10 21:57:24,328 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-10 21:57:28,317 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-10 21:57:36,436 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 21:57:36,553 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 21:57:36,553 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-10 21:57:36,655 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-10 21:57:36,789 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-10 21:57:40,826 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-10 22:02:54,582 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 22:02:54,733 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 22:02:54,733 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-10 22:02:54,818 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-10 22:02:54,961 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-10 22:02:58,993 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-10 22:03:07,356 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 22:03:07,433 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 22:03:07,434 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-10 22:03:07,539 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-10 22:03:07,684 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-10 22:03:10,989 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-10 22:03:19,401 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-10 22:03:19,469 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-10 22:03:19,469 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-10 22:03:19,538 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-10 22:03:19,653 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-10 22:03:23,630 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 01:04:24,277 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 01:04:24,539 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 01:04:24,540 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 01:04:24,734 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 01:04:24,848 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 01:04:29,392 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 01:04:38,225 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 01:04:38,338 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 01:04:38,343 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 01:04:38,537 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 01:04:38,690 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 01:04:42,198 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 01:04:50,693 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 01:04:50,785 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 01:04:50,785 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 01:04:50,881 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 01:04:50,994 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 01:04:54,275 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 11:11:07,990 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 11:11:08,376 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 11:11:08,377 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 11:11:08,496 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 11:11:08,598 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 11:11:12,559 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 11:11:20,923 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 11:11:21,008 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 11:11:21,008 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 11:11:21,093 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 11:11:21,254 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 11:11:25,569 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 11:11:34,543 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 11:11:34,627 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 11:11:34,627 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 11:11:34,713 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 11:11:34,845 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 11:11:39,086 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 12:28:00,371 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 12:28:00,561 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 12:28:00,562 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 12:28:00,703 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 12:28:00,836 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 12:28:04,751 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 12:28:13,827 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 12:28:13,895 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 12:28:13,895 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-11 12:28:16,270 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-11 12:28:16,409 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-11 12:28:16,546 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-11 12:28:16,675 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-11 12:28:16,811 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-11 12:28:16,969 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-11 12:28:17,084 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-11 12:28:17,201 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-11 12:28:17,313 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-11 12:28:17,415 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-11 12:28:17,549 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-11 12:28:17,649 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-11 12:28:17,765 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-11 12:28:17,885 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-11 12:28:18,019 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-11 12:28:18,157 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-11 12:28:18,272 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-11 12:28:18,397 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-11 12:28:18,533 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-11 12:28:18,701 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-11 12:28:18,809 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-11 12:28:18,842 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-11 13:08:50,583 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 13:08:50,768 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 13:08:50,770 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 13:08:50,876 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 13:08:51,001 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 13:08:54,802 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 13:09:01,344 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 13:09:01,407 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 13:09:01,408 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-11 13:09:03,548 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-11 13:09:03,634 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-11 13:09:03,761 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-11 13:09:03,878 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-11 13:09:04,009 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-11 13:09:04,141 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-11 13:09:04,258 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-11 13:09:04,383 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-11 13:09:04,510 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-11 13:09:04,615 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-11 13:09:04,749 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-11 13:09:04,856 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-11 13:09:04,976 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-11 13:09:05,094 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-11 13:09:05,235 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-11 13:09:05,365 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-11 13:09:05,495 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-11 13:09:05,615 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-11 13:09:05,758 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-11 13:09:05,939 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-11 13:09:06,050 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-11 13:09:06,084 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-11 13:17:57,654 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 13:17:57,772 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 13:17:57,774 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 13:17:57,938 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 13:17:58,056 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 13:18:02,519 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 13:18:09,067 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 13:18:09,140 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 13:18:09,142 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-11 13:18:11,348 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-11 13:18:11,443 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-11 13:18:11,584 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-11 13:18:11,706 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-11 13:18:11,853 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-11 13:18:11,996 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-11 13:18:12,137 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-11 13:18:12,284 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-11 13:18:12,394 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-11 13:18:12,500 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-11 13:18:12,635 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-11 13:18:12,737 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-11 13:18:12,857 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-11 13:18:12,974 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-11 13:18:13,106 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-11 13:18:13,231 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-11 13:18:13,349 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-11 13:18:13,470 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-11 13:18:13,611 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-11 13:18:13,790 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-11 13:18:13,903 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-11 13:18:13,938 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-11 13:18:24,816 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 13:18:24,897 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 13:18:24,898 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 13:18:24,971 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-11 13:18:25,115 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 13:18:25,242 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 13:18:29,004 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 13:18:37,030 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 13:18:37,104 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 13:18:37,105 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 13:18:37,185 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-11 13:18:37,278 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 13:18:37,390 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 13:18:42,114 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 13:18:50,120 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 13:18:50,189 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 13:18:50,190 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 13:18:50,256 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-11 13:18:50,404 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 13:18:50,551 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 13:18:52,233 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 13:52:08,203 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 13:52:08,517 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 13:52:08,518 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 13:52:08,683 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 13:52:08,972 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 13:52:12,181 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 13:52:18,846 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 13:52:18,918 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 13:52:18,919 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-11 13:52:21,100 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-11 13:52:21,396 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-11 13:52:21,526 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-11 13:52:21,635 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-11 13:52:21,746 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-11 13:52:21,876 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-11 13:52:21,986 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-11 13:52:22,101 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-11 13:52:22,201 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-11 13:52:22,297 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-11 13:52:22,424 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-11 13:52:22,531 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-11 13:52:22,640 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-11 13:52:22,745 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-11 13:52:22,883 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-11 13:52:23,007 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-11 13:52:23,117 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-11 13:52:23,233 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-11 13:52:23,357 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-11 13:52:23,533 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-11 13:52:23,643 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-11 13:52:23,679 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-11 13:52:34,402 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 13:52:34,467 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 13:52:34,468 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 13:52:34,511 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-11 13:52:34,590 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 13:52:34,713 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 13:52:38,428 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 13:52:38,430 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 13:52:38,552 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 13:52:38,729 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-11 13:52:38,932 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-11 13:52:46,614 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 13:52:46,677 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 13:52:46,678 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 13:52:46,712 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-11 13:52:46,786 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 13:52:46,885 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 13:52:50,664 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 13:52:50,665 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 13:52:51,035 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 13:52:51,230 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-11 13:52:51,300 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-11 13:52:58,948 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-11 13:52:58,996 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-11 13:52:58,996 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-11 13:52:59,031 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-11 13:52:59,104 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-11 13:52:59,203 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-11 13:53:00,613 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-11 13:53:00,615 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:20:53,098 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:20:53,515 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 15:20:53,515 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 15:20:53,641 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 15:20:53,755 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 15:20:58,982 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 15:21:09,397 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:21:09,457 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 15:21:09,457 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 15:21:11,925 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 15:21:12,142 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 15:21:12,317 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 15:21:12,431 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 15:21:12,568 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 15:21:12,696 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 15:21:12,814 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 15:21:12,941 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 15:21:13,053 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 15:21:13,153 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 15:21:13,291 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 15:21:13,403 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 15:21:13,519 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 15:21:13,632 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 15:21:13,779 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 15:21:13,909 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 15:21:14,031 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 15:21:14,149 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 15:21:14,285 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 15:21:14,483 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 15:21:14,592 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 15:21:14,626 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 15:21:26,658 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:21:26,776 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 15:21:26,776 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 15:21:26,895 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 15:21:26,993 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 15:21:27,138 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 15:21:30,464 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 15:21:30,466 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:21:30,703 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 15:21:30,960 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-12 15:21:31,196 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-12 15:21:39,104 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:21:39,175 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 15:21:39,175 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 15:21:39,233 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 15:21:39,376 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 15:21:39,484 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 15:21:43,100 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 15:21:43,101 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:21:43,361 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 15:21:43,465 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-12 15:21:43,607 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-12 15:21:52,075 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:21:52,149 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 15:21:52,150 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 15:21:52,195 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 15:21:52,290 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 15:21:52,424 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 15:21:54,144 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 15:21:54,146 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:25:46,030 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:25:46,278 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 15:25:46,279 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 15:25:46,474 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 15:25:46,653 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 15:25:51,073 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 15:25:58,567 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:25:58,649 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 15:25:58,650 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 15:26:01,023 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 15:26:01,322 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 15:26:01,466 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 15:26:01,578 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 15:26:01,691 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 15:26:01,815 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 15:26:01,930 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 15:26:02,042 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 15:26:02,147 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 15:26:02,244 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 15:26:02,388 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 15:26:02,490 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 15:26:02,605 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 15:26:02,716 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 15:26:02,852 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 15:26:02,970 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 15:26:03,083 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 15:26:03,200 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 15:26:03,348 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 15:26:03,521 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 15:26:03,631 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 15:26:03,665 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 15:26:14,737 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:26:14,800 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 15:26:14,801 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 15:26:14,838 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 15:26:14,910 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 15:26:15,009 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 15:26:19,915 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 15:26:19,917 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:26:20,073 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 15:26:20,174 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-12 15:26:20,328 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-12 15:26:27,721 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:26:27,778 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 15:26:27,778 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 15:26:27,814 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 15:26:27,888 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 15:26:27,985 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 15:26:31,855 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 15:26:31,856 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:26:31,971 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 15:26:32,100 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-12 15:26:32,307 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-12 15:26:40,091 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 15:26:40,152 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 15:26:40,153 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 15:26:40,189 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 15:26:40,261 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 15:26:40,354 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 15:26:41,951 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 15:26:41,953 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 16:10:01,714 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 16:10:02,296 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 16:10:02,297 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 16:10:02,624 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 16:10:03,096 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 16:10:12,659 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 16:10:24,864 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 16:10:24,936 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 16:10:24,937 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 16:10:27,997 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 16:10:28,280 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 16:10:28,520 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 16:10:28,643 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 16:10:28,812 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 16:10:28,955 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 16:10:29,080 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 16:10:29,245 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 16:10:29,379 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 16:10:29,484 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 16:10:29,619 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 16:10:29,719 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 16:10:29,863 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 16:10:29,972 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 16:10:30,113 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 16:10:30,251 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 16:10:30,378 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 16:10:30,504 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 16:10:30,637 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 16:10:30,847 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 16:10:30,996 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 16:10:31,043 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 16:10:47,057 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 16:10:47,115 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 16:10:47,115 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 16:10:47,157 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 16:10:47,231 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 16:10:47,330 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 16:10:51,258 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 16:10:51,259 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 16:10:51,607 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 16:10:51,803 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-12 16:10:51,886 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-12 16:10:59,592 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 16:10:59,644 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 16:10:59,644 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 16:10:59,683 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 16:10:59,773 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 16:10:59,878 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 16:11:04,427 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 16:11:04,429 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 16:11:05,060 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 16:11:05,149 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-12 16:11:05,267 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-12 16:11:13,413 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 16:11:13,476 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 16:11:13,476 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 16:11:13,521 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 16:11:13,611 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 16:11:13,745 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 16:11:15,632 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 16:11:15,635 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 18:57:57,295 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 18:57:57,582 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 18:57:57,583 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 18:57:57,729 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 18:57:57,849 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 18:58:02,665 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 18:58:09,948 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 18:58:10,025 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 18:58:10,026 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 18:58:12,285 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 18:58:12,637 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 18:58:12,767 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 18:58:12,882 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 18:58:13,010 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 18:58:13,141 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 18:58:13,261 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 18:58:13,400 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 18:58:13,527 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 18:58:13,640 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 18:58:13,805 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 18:58:13,926 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 18:58:14,062 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 18:58:14,184 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 18:58:14,353 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 18:58:14,491 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 18:58:14,629 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 18:58:14,760 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 18:58:14,927 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 18:58:15,139 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 18:58:15,271 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 18:58:15,309 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 18:58:19,254 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 18:58:19,310 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 18:58:19,311 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 18:58:19,339 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 18:58:27,114 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 18:58:27,186 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 18:58:27,187 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 18:58:27,242 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 18:58:27,453 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 18:58:27,586 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 18:58:31,246 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 18:58:31,248 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 18:58:31,404 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 18:58:31,502 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-12 18:58:31,677 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-12 18:58:39,742 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 18:58:39,812 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 18:58:39,812 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 18:58:39,852 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 18:58:39,935 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 18:58:40,064 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 18:58:43,713 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 18:58:43,714 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 18:58:43,854 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 18:58:44,059 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-12 18:58:44,362 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-12 18:58:52,659 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 18:58:52,726 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 18:58:52,726 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 18:58:52,797 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 18:58:52,926 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 18:58:53,041 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 18:58:54,613 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 18:58:54,618 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:17:43,490 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:17:43,595 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:17:43,596 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 19:17:43,681 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 19:17:43,795 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 19:17:47,444 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 19:17:54,662 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:17:54,741 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:17:54,742 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 19:17:57,261 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 19:17:57,388 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 19:17:57,556 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 19:17:57,687 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 19:17:57,821 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 19:17:57,968 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 19:17:58,100 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 19:17:58,271 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 19:17:58,396 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 19:17:58,505 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 19:17:58,653 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 19:17:58,780 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 19:17:58,926 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 19:17:59,051 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 19:17:59,204 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 19:17:59,342 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 19:17:59,477 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 19:17:59,627 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 19:17:59,786 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 19:17:59,962 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 19:18:00,083 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 19:18:00,119 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 19:18:03,850 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:18:03,899 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:18:03,902 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 19:18:03,924 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:21:18,826 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:21:18,955 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:21:18,956 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 19:21:19,123 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 19:21:19,235 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 19:21:24,097 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 19:21:31,300 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:21:31,368 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:21:31,369 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 19:21:33,954 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 19:21:34,050 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 19:21:34,199 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 19:21:34,326 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 19:21:34,462 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 19:21:34,601 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 19:21:34,741 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 19:21:34,879 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 19:21:34,983 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 19:21:35,089 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 19:21:35,231 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 19:21:35,332 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 19:21:35,460 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 19:21:35,569 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 19:21:35,700 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 19:21:35,844 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 19:21:35,957 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 19:21:36,099 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 19:21:36,232 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 19:21:36,399 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 19:21:36,506 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 19:21:36,541 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 19:21:40,174 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:21:40,230 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:21:40,230 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 19:21:40,253 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:35:42,391 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:35:42,550 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:35:42,551 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 19:35:42,668 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 19:35:42,793 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 19:35:46,155 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 19:35:53,980 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:35:54,048 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:35:54,049 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 19:35:56,533 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 19:35:56,620 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 19:35:56,776 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 19:35:56,907 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 19:35:57,047 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 19:35:57,186 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 19:35:57,307 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 19:35:57,470 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 19:35:57,583 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 19:35:57,701 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 19:35:57,852 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 19:35:57,978 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 19:35:58,107 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 19:35:58,262 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 19:35:58,421 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 19:35:58,559 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 19:35:58,686 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 19:35:58,844 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 19:35:58,980 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 19:35:59,151 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 19:35:59,257 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 19:35:59,289 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 19:36:02,996 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:36:03,045 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:36:03,045 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 19:36:06,069 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:38:07,555 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:38:07,663 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:38:07,664 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 19:38:07,764 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 19:38:07,881 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 19:38:11,506 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 19:38:18,864 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:38:18,933 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:38:18,933 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 19:38:21,209 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 19:38:21,291 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 19:38:21,415 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 19:38:21,525 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 19:38:21,643 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 19:38:21,774 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 19:38:21,885 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 19:38:22,016 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 19:38:22,119 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 19:38:22,218 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 19:38:22,353 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 19:38:22,460 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 19:38:22,579 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 19:38:22,702 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 19:38:22,841 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 19:38:22,959 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 19:38:23,073 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 19:38:23,200 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 19:38:23,335 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 19:38:23,501 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 19:38:23,608 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 19:38:23,642 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 19:38:27,252 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:38:27,303 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:38:27,304 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 19:38:30,327 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:44:16,627 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:44:16,740 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:44:16,741 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 19:44:16,852 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 19:44:16,990 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 19:44:21,074 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 19:44:27,877 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:44:27,950 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:44:27,951 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 19:44:30,159 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 19:44:30,242 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 19:44:30,379 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 19:44:30,496 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 19:44:30,614 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 19:44:30,738 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 19:44:30,855 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 19:44:30,983 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 19:44:31,091 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 19:44:31,192 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 19:44:31,323 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 19:44:31,439 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 19:44:31,572 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 19:44:31,683 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 19:44:31,819 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 19:44:31,949 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 19:44:32,068 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 19:44:32,206 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 19:44:32,332 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 19:44:32,508 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 19:44:32,619 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 19:44:32,652 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 19:44:36,271 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:44:36,323 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:44:36,324 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 19:44:39,350 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:46:08,575 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:46:08,705 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:46:08,706 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 19:46:08,863 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 19:46:09,003 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 19:46:12,863 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 19:46:20,146 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:46:20,227 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:46:20,228 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 19:46:22,549 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 19:46:22,629 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 19:46:22,755 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 19:46:22,863 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 19:46:22,983 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 19:46:23,111 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 19:46:23,226 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 19:46:23,354 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 19:46:23,461 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 19:46:23,563 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 19:46:23,705 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 19:46:23,813 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 19:46:23,934 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 19:46:24,044 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 19:46:24,184 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 19:46:24,303 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 19:46:24,420 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 19:46:24,551 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 19:46:24,680 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 19:46:24,873 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 19:46:24,996 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 19:46:25,029 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 19:46:28,897 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:46:28,946 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:46:28,947 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 19:46:31,975 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:50:45,901 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:50:46,012 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:50:46,013 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 19:50:46,103 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 19:50:46,219 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 19:50:50,183 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 19:50:57,541 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:50:57,601 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:50:57,601 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 19:50:59,845 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 19:50:59,938 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 19:51:00,080 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 19:51:00,199 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 19:51:00,318 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 19:51:00,444 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 19:51:00,555 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 19:51:00,683 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 19:51:00,797 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 19:51:00,896 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 19:51:01,036 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 19:51:01,141 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 19:51:01,261 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 19:51:01,370 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 19:51:01,507 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 19:51:01,630 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 19:51:01,745 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 19:51:01,887 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 19:51:02,021 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 19:51:02,189 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 19:51:02,298 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 19:51:02,330 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 19:51:06,140 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:51:06,188 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:51:06,188 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 19:51:06,211 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:51:06,290 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:59:00,661 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:59:00,834 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:59:00,834 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 19:59:00,935 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 19:59:01,060 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 19:59:05,087 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 19:59:12,459 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:59:12,523 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:59:12,523 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 19:59:14,843 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 19:59:14,925 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 19:59:15,048 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 19:59:15,156 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 19:59:15,284 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 19:59:15,407 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 19:59:15,533 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 19:59:15,643 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 19:59:15,751 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 19:59:15,852 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 19:59:15,987 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 19:59:16,090 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 19:59:16,210 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 19:59:16,324 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 19:59:16,460 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 19:59:16,580 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 19:59:16,693 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 19:59:16,832 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 19:59:16,962 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 19:59:17,132 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 19:59:17,241 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 19:59:17,275 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 19:59:20,937 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 19:59:20,985 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 19:59:20,986 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 19:59:21,012 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:01:29,529 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:01:29,718 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 20:01:29,719 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 20:01:29,875 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 20:01:30,005 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 20:01:33,882 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 20:01:40,613 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:01:40,675 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 20:01:40,675 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 20:01:42,925 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 20:01:43,008 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 20:01:43,134 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 20:01:43,256 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 20:01:43,374 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 20:01:43,503 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 20:01:43,634 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 20:01:43,753 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 20:01:43,881 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 20:01:43,981 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 20:01:44,119 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 20:01:44,224 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 20:01:44,357 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 20:01:44,466 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 20:01:44,600 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 20:01:44,745 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 20:01:44,864 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 20:01:44,986 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 20:01:45,114 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 20:01:45,295 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 20:01:45,406 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 20:01:45,437 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 20:01:49,146 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:01:49,194 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 20:01:49,194 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 20:01:49,220 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:19:20,588 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:19:20,768 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 20:19:20,769 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 20:19:20,945 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 20:19:21,086 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 20:19:25,347 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 20:19:32,589 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:19:32,669 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 20:19:32,669 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 20:19:34,844 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 20:19:34,926 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 20:19:35,051 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 20:19:35,164 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 20:19:35,279 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 20:19:35,409 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 20:19:35,528 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 20:19:35,655 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 20:19:35,768 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 20:19:35,869 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 20:19:36,003 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 20:19:36,104 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 20:19:36,229 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 20:19:36,343 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 20:19:36,482 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 20:19:36,602 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 20:19:36,728 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 20:19:36,875 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 20:19:37,005 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 20:19:37,175 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 20:19:37,287 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 20:19:37,321 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 20:19:41,157 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:19:41,204 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 20:19:41,204 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 20:19:41,230 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:37:37,209 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:37:37,341 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 20:37:37,342 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 20:37:37,509 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 20:37:37,631 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 20:37:41,209 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 20:37:49,145 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:37:49,241 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 20:37:49,241 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 20:37:52,013 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 20:37:52,164 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 20:37:52,346 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 20:37:52,477 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 20:37:52,623 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 20:37:52,808 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 20:37:52,947 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 20:37:53,103 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 20:37:53,237 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 20:37:53,362 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 20:37:53,536 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 20:37:53,670 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 20:37:53,814 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 20:37:53,952 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 20:37:54,130 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 20:37:54,278 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 20:37:54,452 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 20:37:54,645 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 20:37:54,822 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 20:37:55,034 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 20:37:55,172 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 20:37:55,213 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 20:37:59,128 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:37:59,181 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 20:37:59,181 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 20:55:10,644 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:55:10,792 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 20:55:10,792 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 20:55:11,001 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 20:55:11,187 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 20:55:15,202 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 20:55:22,714 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:55:22,783 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 20:55:22,783 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 20:55:25,120 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 20:55:25,210 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 20:55:25,349 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 20:55:25,473 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 20:55:25,600 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 20:55:25,737 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 20:55:25,862 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 20:55:25,999 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 20:55:26,125 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 20:55:26,231 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 20:55:26,381 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 20:55:26,487 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 20:55:26,613 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 20:55:26,739 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 20:55:26,886 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 20:55:27,022 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 20:55:27,150 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 20:55:27,298 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 20:55:27,437 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 20:55:27,625 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 20:55:27,753 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 20:55:27,792 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 20:55:31,832 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:55:31,889 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 20:55:31,892 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 20:55:31,918 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:55:31,977 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 20:55:32,017 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:55:32,055 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 20:55:32,084 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 20:55:32,130 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:00:27,076 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:00:27,247 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:00:27,247 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:00:27,356 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:00:27,500 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:00:32,040 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:00:40,347 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:00:40,421 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:00:40,422 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 21:00:43,158 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 21:00:43,273 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 21:00:43,423 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 21:00:43,564 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 21:00:43,713 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 21:00:43,877 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 21:00:44,033 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 21:00:44,171 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 21:00:44,298 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 21:00:44,412 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 21:00:44,579 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 21:00:44,713 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 21:00:44,850 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 21:00:44,984 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 21:00:45,148 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 21:00:45,314 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 21:00:45,457 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 21:00:45,607 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 21:00:45,749 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 21:00:45,931 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 21:00:46,045 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 21:00:46,079 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 21:00:50,163 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:00:50,218 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:00:50,218 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 21:00:50,241 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:00:50,281 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:00:50,315 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:00:50,358 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:00:50,388 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:00:50,420 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:00:50,447 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:00:50,467 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:03:35,484 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:03:35,685 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:03:35,686 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:03:35,782 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:03:35,904 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:03:40,021 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:03:48,658 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:03:48,737 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:03:48,737 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 21:03:51,167 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 21:03:51,264 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 21:03:51,413 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 21:03:51,548 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 21:03:51,688 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 21:03:51,847 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 21:03:52,005 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 21:03:52,152 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 21:03:52,290 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 21:03:52,415 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 21:03:52,581 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 21:03:52,718 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 21:03:52,871 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 21:03:53,017 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 21:03:53,187 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 21:03:53,325 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 21:03:53,466 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 21:03:53,610 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 21:03:53,777 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 21:03:54,006 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 21:03:54,145 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 21:03:54,180 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 21:03:58,206 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:03:58,270 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:03:58,270 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 21:03:58,296 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:03:58,339 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:03:58,374 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:03:58,416 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:03:58,439 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:03:58,478 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:03:58,501 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:03:58,536 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:03:58,566 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:03:58,584 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:03:58,604 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:03:58,623 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:06:06,421 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:06:06,563 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:06:06,567 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:06:06,751 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:06:06,896 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:06:11,624 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:06:19,264 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:06:19,331 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:06:19,333 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 21:06:21,727 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 21:06:21,830 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 21:06:21,968 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 21:06:22,094 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 21:06:22,222 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 21:06:22,355 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 21:06:22,479 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 21:06:22,611 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 21:06:22,728 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 21:06:22,843 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 21:06:22,985 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 21:06:23,103 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 21:06:23,231 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 21:06:23,347 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 21:06:23,491 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 21:06:23,636 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 21:06:23,772 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 21:06:23,903 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 21:06:24,039 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 21:06:24,227 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 21:06:24,349 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 21:06:24,381 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 21:06:28,259 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:06:28,325 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:06:28,326 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 21:06:28,355 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:06:28,409 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:06:28,454 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:06:28,504 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:06:28,536 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:06:28,588 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:06:28,633 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:06:28,684 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:06:28,717 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:06:28,738 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:06:28,758 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:06:28,778 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:06:28,793 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:06:28,845 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:07:38,422 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:07:38,599 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:07:38,599 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:07:38,731 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:07:38,867 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:07:43,081 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:07:50,980 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:07:51,079 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:07:51,079 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 21:07:53,804 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 21:07:53,900 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 21:07:54,057 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 21:07:54,192 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 21:07:54,334 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 21:07:54,476 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 21:07:54,600 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 21:07:54,731 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 21:07:54,850 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 21:07:54,966 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 21:07:55,106 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 21:07:55,225 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 21:07:55,355 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 21:07:55,467 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 21:07:55,617 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 21:07:55,756 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 21:07:55,885 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 21:07:56,017 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 21:07:56,164 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 21:07:56,362 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 21:07:56,479 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 21:07:56,513 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 21:08:00,821 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:08:00,881 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:08:00,882 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 21:08:00,904 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:08:00,946 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:08:00,980 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:08:01,022 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:08:01,044 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:08:01,084 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:08:01,110 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:08:01,147 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:08:01,173 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:08:01,193 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:08:01,210 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:08:01,229 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:08:01,243 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:08:01,288 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:08:01,310 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:08:01,357 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:10:18,582 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:10:18,826 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:10:18,827 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:10:18,964 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:10:19,117 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:10:23,251 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:10:30,623 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:10:30,687 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:10:30,687 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 21:10:33,129 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 21:10:33,216 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 21:10:33,354 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 21:10:33,478 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 21:10:33,611 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 21:10:33,741 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 21:10:33,865 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 21:10:34,000 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 21:10:34,114 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 21:10:34,224 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 21:10:34,378 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 21:10:34,490 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 21:10:34,631 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 21:10:34,749 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 21:10:34,903 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 21:10:35,036 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 21:10:35,162 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 21:10:35,307 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 21:10:35,449 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 21:10:35,732 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 21:10:35,849 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 21:10:35,889 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 21:10:40,165 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:10:40,224 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:10:40,228 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 21:10:40,253 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:10:40,297 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:10:40,333 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:10:40,374 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:10:40,400 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:10:40,441 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:10:40,465 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:10:40,506 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:10:40,534 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:10:40,554 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:10:40,571 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:10:40,589 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:10:40,607 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:10:40,663 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:10:40,691 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:10:40,738 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:10:48,135 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:10:48,213 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:10:48,214 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:10:48,266 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 21:10:48,402 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:10:48,516 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:10:52,996 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:10:52,998 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:10:53,118 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:10:53,205 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-12 21:10:53,354 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-12 21:11:01,383 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:11:01,467 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:11:01,467 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:11:01,585 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 21:11:01,689 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:11:01,834 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:11:06,139 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:11:06,141 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:11:06,407 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:11:06,815 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-12 21:11:06,937 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-12 21:11:14,736 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:11:14,829 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:11:14,829 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:11:14,913 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 21:11:15,003 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:11:15,138 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:11:16,782 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:11:16,786 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:02,093 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:02,205 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:02,206 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:33:02,402 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:33:02,545 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:33:06,587 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:33:14,071 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:14,149 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:14,150 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 21:33:16,420 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 21:33:16,515 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 21:33:16,659 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 21:33:16,789 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 21:33:16,919 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 21:33:17,055 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 21:33:17,169 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 21:33:17,292 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 21:33:17,405 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 21:33:17,508 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 21:33:17,654 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 21:33:17,763 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 21:33:17,903 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 21:33:18,017 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 21:33:18,155 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 21:33:18,282 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 21:33:18,405 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 21:33:18,538 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 21:33:18,678 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 21:33:18,853 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 21:33:18,963 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 21:33:18,997 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 21:33:22,959 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:23,014 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:23,015 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 21:33:23,041 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:23,079 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:23,110 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:23,148 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:23,173 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:23,209 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:23,232 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:23,273 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:23,299 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:23,318 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:23,333 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:23,353 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:23,373 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:23,424 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:23,457 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:23,499 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:30,921 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:30,997 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:30,997 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:33:31,126 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 21:33:31,236 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:33:31,346 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:33:34,961 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:33:34,965 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:35,248 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:35,449 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-12 21:33:35,656 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-12 21:33:44,136 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:44,201 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:44,202 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:33:44,249 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 21:33:44,347 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:33:44,477 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:33:48,873 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:33:48,875 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:49,008 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:49,158 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-12 21:33:49,259 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-12 21:33:57,144 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:33:57,228 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:33:57,230 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:33:57,287 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 21:33:57,369 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:33:57,484 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:33:59,048 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:33:59,050 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:34:29,476 - StepDefinitionsClass.ServiceHooks -INFO - Sign in with Valid credentials is failed
+2020-09-12 21:48:46,850 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:48:47,110 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:48:47,110 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:48:47,226 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:48:47,339 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:48:51,876 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:48:59,402 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:48:59,492 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:48:59,492 - PageObjectRepoClass.LeadsPage -INFO - Clicking on Leads Plus icon Leads page
+2020-09-12 21:49:02,215 - PageObjectRepoClass.LeadsPage -INFO - Selecting salutationtype for firstname
+2020-09-12 21:49:02,473 - PageObjectRepoClass.LeadsPage -INFO - First name is entering  with data James
+2020-09-12 21:49:02,590 - PageObjectRepoClass.LeadsPage -INFO - Last name is entering  with data Bond
+2020-09-12 21:49:02,756 - PageObjectRepoClass.LeadsPage -INFO - Company is entering  with data Dcompany
+2020-09-12 21:49:02,883 - PageObjectRepoClass.LeadsPage -INFO - Title is entering  with data QALead
+2020-09-12 21:49:03,010 - PageObjectRepoClass.LeadsPage -INFO - Selecting Lead source with data Employee
+2020-09-12 21:49:03,125 - PageObjectRepoClass.LeadsPage -INFO - Selecting Industry with data Banking
+2020-09-12 21:49:03,244 - PageObjectRepoClass.LeadsPage -INFO - Annualrevenue is entering  with data 100
+2020-09-12 21:49:03,356 - PageObjectRepoClass.LeadsPage -INFO - Noofemployees is entered  with data 2
+2020-09-12 21:49:03,460 - PageObjectRepoClass.LeadsPage -INFO - Secondaryemail is entered  with data infotest@gmail.com
+2020-09-12 21:49:03,591 - PageObjectRepoClass.LeadsPage -INFO - Street is entered  with data MG Road
+2020-09-12 21:49:03,689 - PageObjectRepoClass.LeadsPage -INFO - Postalcode is entered  with data 560037
+2020-09-12 21:49:03,809 - PageObjectRepoClass.LeadsPage -INFO - Country is entered  with data INDIA
+2020-09-12 21:49:03,934 - PageObjectRepoClass.LeadsPage -INFO - Description is entered  with data Automation test description
+2020-09-12 21:49:04,082 - PageObjectRepoClass.LeadsPage -INFO - Phone is entered  with data 9999999999
+2020-09-12 21:49:04,224 - PageObjectRepoClass.LeadsPage -INFO - Mobile is entered  with data 9999999999
+2020-09-12 21:49:04,361 - PageObjectRepoClass.LeadsPage -INFO - Fax is entered  with data Fax Details
+2020-09-12 21:49:04,495 - PageObjectRepoClass.LeadsPage -INFO - Email is entered  with data infotest@gmail.com
+2020-09-12 21:49:04,639 - PageObjectRepoClass.LeadsPage -INFO - Website is enteried  with data Automation Website
+2020-09-12 21:49:04,813 - PageObjectRepoClass.LeadsPage -INFO - LeadStatus is selected  with data Warm
+2020-09-12 21:49:04,927 - PageObjectRepoClass.LeadsPage -INFO - Administrator is selected  with data Administrator
+2020-09-12 21:49:04,967 - PageObjectRepoClass.LeadsPage -INFO - Clicks on Save button
+2020-09-12 21:49:08,562 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:49:08,606 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:49:08,607 - PageObjectRepoClass.LeadsPage -INFO - Verified for the LeadCreation Message
+2020-09-12 21:49:08,632 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:49:08,670 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:49:08,704 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:49:08,741 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:49:08,770 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:49:08,824 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:49:08,846 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:49:08,900 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:49:08,927 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:49:08,946 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:49:08,961 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:49:08,980 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:49:08,996 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:49:09,041 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:49:09,063 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:49:09,106 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:49:16,682 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:49:16,735 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:49:16,735 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:49:16,777 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 21:49:16,847 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:49:16,945 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:49:20,581 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:49:20,584 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:49:20,686 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:49:20,828 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-12 21:49:20,955 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-12 21:49:28,596 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:49:28,654 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:49:28,654 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:49:28,695 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 21:49:28,774 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:49:28,874 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:49:32,576 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:49:32,590 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:49:32,770 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:49:32,903 - PageObjectRepoClass.LeadsPage -INFO - Image VTiger is seen on Home page 
+2020-09-12 21:49:33,112 - StepDefinitionsClass.HomePageStepDefinition -INFO - Administrator field is available in home page 
+2020-09-12 21:49:40,599 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:49:40,663 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Element is found and visible
+2020-09-12 21:49:40,663 - StepDefinitionsClass.LoginPageStepDefinition -INFO - the Application URl is getting launched
+2020-09-12 21:49:40,703 - StepDefinitionsClass.LoginPageStepDefinition -INFO - on successful launch of the application user is able to see VTigerCRM
+2020-09-12 21:49:40,801 - StepDefinitionsClass.LoginPageStepDefinition -INFO - user successfully entered the username
+2020-09-12 21:49:40,914 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully entered the password
+2020-09-12 21:49:42,644 - StepDefinitionsClass.LoginPageStepDefinition -INFO - User successfully clicked on Login Button 
+2020-09-12 21:49:42,646 - MyCucumber.CucumberTravelTrace.UtilityClass.GenericLibrary -INFO - Waiting for element to load
+2020-09-12 21:50:12,739 - StepDefinitionsClass.ServiceHooks -INFO - Sign in with Valid credentials is failed
